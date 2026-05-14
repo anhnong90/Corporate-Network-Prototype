@@ -1,6 +1,7 @@
 # Corporate-Network-Prototype
 > **Client:** KI Software Entwicklung GmbH  
 > **Project Scope:** Multi-Site Enterprise Networking (VPN over IP-Transit)
+> **Full documentation:** https://docs.google.com/document/d/11GgrStPN0RqStG78N3FQeXrghCnY_yWqcQo8iwZGfbw/edit?usp=drive_link (Project team only)
 
 ## Project Overview
 This project involves the design and implementation of a secure, multi-site enterprise network prototype. The goal is to connect a new headquarters in **Vienna** with two branch offices (**Linz** and **Graz**) using Cisco Packet Tracer, simulating a real-world corporate environment.
