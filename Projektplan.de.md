@@ -22,11 +22,12 @@
 - [x] DHCP Pools für Wien erstellt
 
 ### Anh
-- [ ] Netzdiagramm (Grafische Darstellung des Netzwerks) finalisieren
-- [ ] ISP-Router: Schnittstellen konfigurieren (Gi0/0, Gi0/1, Gi0/2)
-- [ ] Branch-Linz-Router: Basis-Konfiguration & DHCP Pool
-- [ ] Switch2 (Linz): VLAN Access-Ports und Uplink
-- [ ] Ping-Tests: ISP zu allen Standorten
+- [x] Netzdiagramm (Grafische Darstellung des Netzwerks) finalisieren
+- [x] ISP-Router: Schnittstellen konfigurieren (Gi0/0, Gi0/1, Gi0/2)
+- [x] Branch-Linz-Router: Basis-Konfiguration & DHCP Pool
+- [x] Switch2 (Linz): VLAN Access-Ports und Uplink
+- [x] Routing zwischen ISP und Wien: erfolgreich eingerichtet
+- [x] Ping-Tests: ISP zu allen Standorten
 
 ---
 
