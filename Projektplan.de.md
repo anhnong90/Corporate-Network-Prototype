@@ -1,7 +1,7 @@
 # Projekt Firmennetzwerk 2
 > **Standortvernetzung über IP-Transit** | 4-Wochen-Projektplan
 
-## 📊 Gesamtübersicht
+## Gesamtübersicht
 | Woche | Nataliia (ca. 50%) | Anh (ca. 50%) |
 | :--- | :--- | :--- |
 | **1** | Topologie, Wien komplett | ISP-Router + Netzdiagramm + Linz Basis |
@@ -11,7 +11,7 @@
 
 ---
 
-## 📅 Woche 1: Grundkonfiguration & ISP
+## Woche 1: Grundkonfiguration & ISP
 ### Nataliia
 - [x] Topologie (Anordnung der Netzwerkgeräte) definiert und verkabelt
 - [x] IP-Schema / VLSM (Variable Length Subnet Masking) berechnet
@@ -30,7 +30,7 @@
 
 ---
 
-## 📅 Woche 2: GRE-Tunnel & NAT/PAT
+## Woche 2: GRE-Tunnel & NAT/PAT
 ### Nataliia
 - [ ] GRE Tunnel0 & Tunnel1 (HQ-Seite) konfigurieren
 - [ ] Statische Routen für Linz/Graz über Tunnel setzen
@@ -45,7 +45,7 @@
 
 ---
 
-## 📅 Woche 3: ACL & Security
+## Woche 3: ACL & Security
 ### Nataliia
 - [ ] ACL (Access Control List) für File-Server erstellen (Externer Block)
 - [ ] Security-Dokumentation (Konzeptbeschreibung)
@@ -58,7 +58,7 @@
 
 ---
 
-## 📅 Woche 4: Abschluss
+## Woche 4: Abschluss
 - [ ] **Review:** Alle Testtabellen finalisieren
 - [ ] **Cleanup:** Packet Tracer Datei (Beschriftungen aufräumen)
 - [ ] **Abgabe:** Gesamtdokumentation zusammenführen
